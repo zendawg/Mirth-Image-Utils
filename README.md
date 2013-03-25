@@ -1,7 +1,7 @@
 Mirth-Image-Utils
 =================
 
-Support for image processing (such as scaling and sub-images), used by the service bus.
+Support for image processing (such as scaling and sub-images), used by the service bus. This project relies on the `OpenEyes-Install-Scripts` project to build and deploy.
 
 It is expected that Mirth has already been installed prior to installing these utilities.
 
