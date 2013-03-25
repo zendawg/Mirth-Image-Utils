@@ -1,4 +1,4 @@
-package org.statefive.imageutils;
+package org.openeyes.esb.imageutils;
 
 import java.awt.*;
 import java.awt.geom.*;
